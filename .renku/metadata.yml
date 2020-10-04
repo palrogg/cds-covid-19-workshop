@@ -1,0 +1,11 @@
+'@context':
+  created: schema:dateCreated
+  schema: http://schema.org/
+  name: schema:name
+  updated: schema:dateUpdated
+  version: schema:schemaVersion
+'@type': schema:Project
+created: 2020-10-04T12:26:50.158Z
+name: cds-covid-19-workshop
+updated: 2020-10-04T12:26:50.158Z
+version: '4'
